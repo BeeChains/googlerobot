@@ -2,7 +2,7 @@
 
 This is a [Handshake](https://handshake.org/) blockchain Top Level Domain.
 
-That means it can be anythig almost!!
+Yes, I Robot...
 
 Build almost infinite subdomain combinations and ideas!
 
